@@ -1,0 +1,29 @@
+{
+  "name": "hu3veeconvert",
+  "version": "1.0.0",
+  "description": "hu3veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brooklyntyr/hu3veeconvert.git"
+  },
+  "keywords": [
+    "hu3veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "brooklyntyr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brooklyntyr/hu3veeconvert/issues"
+  },
+  "homepage": "https://github.com/brooklyntyr/hu3veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
